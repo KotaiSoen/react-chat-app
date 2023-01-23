@@ -1,0 +1,19 @@
+.no-message-container {
+    height: 100%;
+    display: flex;
+    background-color: rgb(43, 38, 38);
+}
+
+.no-message-main-div {
+    height: 100%;
+    width: 80%;
+}
+
+.no-message-empty-div {
+    /* background-color: black;  */
+    height: 92%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

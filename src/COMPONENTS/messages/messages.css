@@ -1,0 +1,33 @@
+.message-container {
+    height: 100%;
+    display: flex;
+    background-color: rgb(43, 38, 38);
+}
+
+.message-main-div {
+    height: 100%;
+    width: 80%;
+}
+
+.message-chat-div {
+    height: 92%;
+}
+
+.message {
+    display: flex;
+    height: 92%;
+}
+
+.message img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.name-time {
+    display: flex;
+}
+
+.chat-box {
+    display: flex;
+}
